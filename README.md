@@ -12,4 +12,4 @@ Then run `yarn start` to run the client side code. The app should be visible on 
 
 Open a new terminal tab/window in the same directory, and run `cd server` to go into the server directory.
 
-Run `node ./build/server.js` to start the server. The app is now ready for use.
+Run `node ./build/server.js` to start the server and use the app!
