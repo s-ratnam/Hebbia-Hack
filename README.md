@@ -1,6 +1,8 @@
 # Hebbia-Hack
 Submission for Hebbia.ai Hackathon Project
 
+![Hebbia Search Results](https://imgur.com/XUBLLmb.png)
+
 ## Running Locally
 To run, first clone the repo with: `git clone https://github.com/s-ratnam/Hebbia-Hack.git`
 
